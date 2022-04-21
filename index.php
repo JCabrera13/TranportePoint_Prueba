@@ -11,9 +11,8 @@
                     <div class="row">
                         <div class="col-xl-9 col-lg-9">
                             <div class="hero__caption">
-                                <h1 >Point Asistencia al Comercio y Transporte JACM</h1>
-                                <H1>prueba</h1>
-                            </div>
+                                <h1 >Point Asistencia al Comercio y Transporte</h1>
+                                </div>
                             <!--Hero form
                             <form action="#" class="search-box">
                                 <div class="input-form">
